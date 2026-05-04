@@ -1,8 +1,8 @@
 # Hi, I'm Sheelalipi Panda 
 
-Master's Student in Electromobility — FAU Erlangen-Nürnberg, Germany  
-B.E. in Mechanical Engineering  
-Erlangen, Bavaria  
+Master's Student in Electromobility — FAU Erlangen-Nürnberg, Germany
+B.E. in Mechanical Engineering
+Erlangen, Bavaria
 
 I am someone who is equally drawn to **how things are built** and **how they are sold** —  
 a rare mix of engineering curiosity and marketing instinct.  
@@ -54,6 +54,12 @@ I believe the best innovations are not just well-engineered, but well-understood
 
 ---
 
+## Beyond Engineering
+
+Outside of my academic and technical world, I am a trained **Bharatanatyam classical dancer**
+and a **Yoga instructor** — disciplines that have shaped how I think:
+with focus, patience, and a deep respect for both structure and expression.
+
 ## Right Now
 
 I am in my Master's journey — exploring, learning, and  
@@ -65,4 +71,6 @@ but I know one thing for certain — once I commit to something, I give it every
 
 ## Let's Connect
 
-[LinkedIn](www.linkedin.com/in/sheelalipi-panda-209552245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheelalipi-panda-209552245)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:panda.sheelalipi@gmail.com)
+
