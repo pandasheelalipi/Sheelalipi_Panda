@@ -1,7 +1,9 @@
 # Hi, I'm Sheelalipi Panda 
 
- Master's Student in Electromobility — FAU Erlangen-Nürnberg, Germany
- B.E. in Mechanical Engineering
+ Master's Student in Electromobility - FAU Erlangen-Nürnberg, Germany.
+ 
+ B.E. in Mechanical Engineering.
+ 
  Erlangen, Bavaria
 
 I am someone who is equally drawn to **how things are built** and **how they are sold** —  
