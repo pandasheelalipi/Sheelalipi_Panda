@@ -1,4 +1,4 @@
-# Hi, I'm Sheelalipi Panda 👋
+# Hi, I'm Sheelalipi Panda 
 
 Master's Student in Electromobility — FAU Erlangen-Nürnberg, Germany  
 B.E. in Mechanical Engineering  
