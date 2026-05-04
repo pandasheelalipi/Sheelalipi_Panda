@@ -65,4 +65,4 @@ but I know one thing for certain — once I commit to something, I give it every
 
 ## Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/sheelalipi-panda-209552245)
+[LinkedIn](www.linkedin.com/in/sheelalipi-panda-209552245)
